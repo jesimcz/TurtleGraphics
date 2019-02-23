@@ -1,10 +1,12 @@
 # Python program to draw  Spiral Square Outside In and Inside Outusing Turtle Programming 
+# https://www.geeksforgeeks.org/turtle-programming-python/
+#
 import turtle   #Outside_In 
 wn = turtle.Screen() 
-wn.bgcolor("light green") 
-wn.title("Turtle") 
+wn.bgcolor("light gray") 
+wn.title("Turtle Grphics - Spiral") 
 skk = turtle.Turtle() 
-skk.color("blue") 
+skk.color("black") 
   
 def sqrfunc(size): 
     for i in range(4): 

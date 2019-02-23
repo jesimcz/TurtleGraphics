@@ -1,3 +1,6 @@
+#
+# source https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.done
+#
 from turtle import *
 color('red', 'yellow')
 begin_fill()
