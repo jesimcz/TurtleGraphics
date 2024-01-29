@@ -40,4 +40,5 @@ for x in range(numshapes):
         turtle.end_fill() 
   
 time.sleep(11) 
-turtle.bye()
+turtle.mainloop()
+#8turtle.bye()
